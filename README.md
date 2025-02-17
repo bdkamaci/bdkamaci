@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdkamaci&label=Profile%20views&color=0e75b6&style=flat" alt="bdkamaci" /> </p>
 
-- 🌱 I’m currently learning **Java, SpringBoot**
+- 🌱 I’m currently developing **Java, SpringBoot**
 
 - 📫 How to reach me **burcudogakamaci@gmail.com**
 
