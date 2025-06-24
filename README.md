@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burcu</h1>
-<h3 align="center">Junior Backend Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdkamaci&label=Profile%20views&color=0e75b6&style=flat" alt="bdkamaci" /> </p>
 
-- 🌱 I’m currently developing **Java, SpringBoot**
+- 🌱 I’m currently developing **Python, Javascript, Java, SpringBoot**
 
 - 📫 How to reach me **burcudogakamaci@gmail.com**
 
